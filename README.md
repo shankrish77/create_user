@@ -6,7 +6,7 @@ Create a user and upload an ssh public key for remote authentication
 Requirements
 ------------
 
-No specific requirement for ansible
+No specific requirement for Ansible.
 Need a default ssh public key or a specific key needs to be called out in a variable.
 
 Role Variables
@@ -44,4 +44,4 @@ MIT
 Author Information
 ------------------
 
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+Author: Shanthi Krishnamoorthy
